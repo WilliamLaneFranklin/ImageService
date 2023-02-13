@@ -9,3 +9,5 @@ To request the image url, a string in the format "City, State" or "City, Country
 Receiving Data
 
 To receive the image url, a string of the url is written to the writeOut.txt file. Right now, the micrsoervice also prints the url to the console just for the sake of demonstration but this can of course be removed before using the service. The main app simply needs to read from the writeOut.txt file and see if a url is present or if the file is empty. 
+
+![image](https://user-images.githubusercontent.com/102389851/218574401-99e04f40-eca3-4f68-b5e1-f5f93c7c6d6a.png)
